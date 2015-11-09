@@ -3,13 +3,31 @@
 /***************/
 
 /* Color Palette */
-
+.color-1 {
+    background: red;
+}
+.color-2 {
+    background: green;
+}
+.color-3 {
+    background: orange;
+}
 
 /* Textures or Patterns*/
-
+.pattern-1 {
+    background: url(../img/confectionary.png);
+}
+.pattern-2 {
+    background: url(../img/carbon_fibre.png);
+}
+.pattern-3 {
+    background: url(../img/confectionary.png);
+}
 
 /* Imagery */
-
+.imagery-1 {
+    
+}
 
 /* Icons */
 
